@@ -1,5 +1,5 @@
 # Why-are-there-less-commits?
-You may be wondering why I am lacking in Commits from Mid June until Mid-September. See what I was working on...
+Hey potential employers! You may be wondering why I am lacking in commits from June until Mid-September. See what I was working on...
 
 ![Alt Text](https://media4.giphy.com/media/sbLmSCdliPbuvV9gqG/giphy.gif)
 
